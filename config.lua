@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Target = false
+Config.Target = true
 
 Config.Job = 'police'
 
