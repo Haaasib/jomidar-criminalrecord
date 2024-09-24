@@ -5,7 +5,8 @@ https://www.youtube.com/watch?v=NFOkiOzhxkM
 ### INSTALLATION
 * DRAG AND DROP AND RUN THE SQL
 * Run the SQL-file
-
+* qb-target & ineract support. Just Check Config
+  
 ### GUIDE
 
 * To go back to the start press the big circle at the top left
